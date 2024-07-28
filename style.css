@@ -398,6 +398,7 @@ display:block;
     }
     .featured{
         background-attachment: fixed;
+        background-size: contain;
     }
     .latest{
         padding: 0px 50px;
