@@ -340,7 +340,7 @@ display:block;
         font-size: 20px;
         padding: 10px 10px;
     }
-    #sidenav ul li a:hovert{
+    #sidenav ul li a:hover{
         color: var(--primary);
     }
     #sidenav ul li i{
